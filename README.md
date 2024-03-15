@@ -1,7 +1,5 @@
-# nodejs-arabic-course
+# Arabic NodeJS Course
 
-
-Certainly! Expanding on each point with more detail will provide a clearer roadmap for learners, offering them in-depth insights and practical tasks to cement their understanding of Node.js. Here's a more detailed breakdown:
 
 ### Module 1: Introduction to Node.js
 - **Lesson 1.1**: What is Node.js?
